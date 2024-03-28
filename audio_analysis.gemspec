@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = "audio_analysis"
-  s.version     = "0.0.5"
+  s.version     = "0.0.6"
   s.summary     = "Get the BPM and Key of any audio file"
   s.description = "Get the BPM and Key of any audio file"
   s.authors     = ["Indigo Tech Tutorials "]
@@ -9,4 +9,5 @@ Gem::Specification.new do |s|
   s.homepage    =
     "https://rubygems.org/gems/audio_analysis"
   s.license       = "MIT"
+  s.metadata['source_code_uri'] = 'https://github.com/enochtamulonis/audio-analysis-gem'
 end
